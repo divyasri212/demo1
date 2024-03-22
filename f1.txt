@@ -1,5 +1,2 @@
 "My first text" 
 "Added line" 
-                              Add one line 
-ECHO is on.
-ECHO is on.
